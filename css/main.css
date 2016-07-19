@@ -13,6 +13,10 @@ p {
 	padding: 15px 25px 500px 15px;
 }
 
+#player {
+	position: relative;
+}
+
 #wrapper {
 	text-align: left;
 	max-width: 1024px;
@@ -28,7 +32,7 @@ p {
 
 /* Video Controls */
 #controls {
-	bottom: 416px;
+	bottom: 12px;
 	max-width: 1024px;
 	width: 100%;
 	position: absolute;
